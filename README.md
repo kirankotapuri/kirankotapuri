@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Kiran kotapuri 👋
 
-<!--
-**kirankotapuri/kirankotapuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | AI/ML Engineer | n8n Automation Specialist**
 
-Here are some ideas to get you started:
+### What I Do
+- Build full-stack web applications (React, Node.js, Python)
+- Create AI/ML solutions (chatbots, automation, deepfake detection)
+- Design n8n workflows for business & web automation
+- Python automation & scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS, HTML/CSS
+- **Backend:** Node.js, Python, Express, FastAPI
+- **Database:** MongoDB, PostgreSQL
+- **AI/ML:** PyTorch, OpenCV, TensorFlow, OpenAI, LangChain
+- **Automation:** n8n, Zapier
+- **DevOps & Tools:** Docker, Git, GitHub, Postman
+
+
+## featured projects
+l
+
+### Connect with Me
+- 📧 Email: [kirankumarkotapuri100@gmail.com](mailto:kirankumarkotapuri100@gmail.com)
+
+---
+
+*Currently open to freelance projects and technical collaborations!*
